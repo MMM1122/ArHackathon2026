@@ -1,7 +1,7 @@
 """Amazon Robotics Hackathon: coordinated, bounded fleet lookahead.
 
-Team name:
-Email address:
+Team name: Danger Stranger
+Email address: 
 
 Only this file is needed. No files, future arrivals, or engine internals are
 read by the driver. Fill in the two identity fields before submitting.
